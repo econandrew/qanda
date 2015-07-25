@@ -5,5 +5,4 @@
 5. ./import_extra.py
 6. ./export_extra.sh
 (edit extra/eps_panel_extra.csv)
-7. ./import_extra.py# qanda
-# qanda
+7. ./import_extra.py
