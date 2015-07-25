@@ -1,0 +1,1 @@
+sqlite3 qanda.db < export_extra.sql

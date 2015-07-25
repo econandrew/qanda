@@ -1,0 +1,1 @@
+sqlite3 qanda.db < create_queries.sql
